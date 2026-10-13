@@ -45,4 +45,4 @@ Useful for small businesses and freelancers who need to clean sales data and pre
 The automation generates a formatted Excel workbook containing sales
 statistics, sales by city, sales by product, and cleaned transaction data.
 
-![Excel Sales Report](screenshots/sales-report.png)
+![Excel Sales Report](screenshots/sales_report.png)
