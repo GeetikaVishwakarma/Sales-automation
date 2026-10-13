@@ -38,3 +38,11 @@ The program generates cleaned sales data and sales reports in CSV and Excel form
 
 ## Use Cases
 Useful for small businesses and freelancers who need to clean sales data and prepare reports automatically.
+
+
+## Excel Report Preview
+
+The automation generates a formatted Excel workbook containing sales
+statistics, sales by city, sales by product, and cleaned transaction data.
+
+![Excel Sales Report](screenshots/sales-report.png)
