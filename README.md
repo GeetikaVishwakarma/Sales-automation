@@ -46,3 +46,28 @@ The automation generates a formatted Excel workbook containing sales
 statistics, sales by city, sales by product, and cleaned transaction data.
 
 ![Excel Sales Report](screenshots/sales_report.png)
+
+## Business Use Case
+
+Businesses often receive CSV files containing duplicate transactions, inconsistent text formatting, missing values, and sales data that must be summarized manually.
+
+This project automates the cleaning and reporting process using Python.
+
+### Example Workflow
+
+1. Provide a CSV file containing sales records.
+2. Validate required columns and numeric sales amounts.
+3. Clean whitespace and remove duplicate rows.
+4. Calculate sales statistics and group sales by city and product.
+5. Export cleaned data and a formatted Excel workbook.
+
+### Business Benefits
+
+- Reduces repetitive manual spreadsheet work.
+- Makes sales data easier to review.
+- Produces consistent reports.
+- Helps identify invalid sales amounts for correction.
+
+### Technologies Used
+
+Python, Pandas, OpenPyXL, CSV, and Excel.
